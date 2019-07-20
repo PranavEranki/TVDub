@@ -1,4 +1,4 @@
-# AnimeDub
+# Dub
 Automated true-to-time language dubbing for TV shows with Google Cloud Platform speech to text, text to speech, and translation.
 
 # What it does
