@@ -9,7 +9,7 @@ google-cloud-speech==0.35.0
 google-cloud-storage==1.11.0
 google-resumable-media==0.3.1
 googleapis-common-protos==1.5.3
-grpcio==1.14.2
+grpcio==1.53.0
 idna==2.7
 protobuf==3.6.1
 pyasn1==0.4.4
